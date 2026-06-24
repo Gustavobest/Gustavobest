@@ -1,9 +1,11 @@
-<h1 align="center">
-  Hi, I'm Gustavo 👋
-</h1>
+<!-- 🌊 HEADER ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;Software+Development+Student;Always+Learning+New+Things+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=220&section=header&text=Gustavo%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;Software+Development+Student;Always+Improving+🚀"/>
 </p>
 
 <p align="center">
@@ -14,19 +16,19 @@
 
 ## 👨‍💻 About Me
 
-```yaml id="g1a9k2"
+```yaml id="g7k2lm"
 Name: Gustavo
 Country: Peru 🇵🇪
 Role: Backend Developer (Student)
 
 Currently:
-  - Building a Hotel Management System
-  - Learning Spring Boot & Java
+  - Building Hotel Management System
+  - Learning Spring Boot
   - Practicing REST APIs
 
 Goals:
-  - First Backend Developer job
-  - Master Spring Boot
+  - First Backend Developer Job
+  - Master Backend Development
   - Learn Docker & Security
   - Improve System Design
 
@@ -74,9 +76,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 
 ---
 
-## 🐍 Snake Animation (IMPORTANTE)
-
-👉 Este link SOLO funciona cuando configuras GitHub Actions:
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
@@ -126,13 +126,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 
 ---
 
-## 💡 Important Note
+<!-- 🌊 FOOTER ANIMADO -->
 
-> Este perfil está enfocado en Backend Development con Java y Spring Boot.
-> Proyecto principal: Hotel Management System 🚀
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=150&section=footer"/>
+</p>
 
 <h3 align="center">
-🔥 Code • Learn • Build • Repeat
+🔥 Code • Learn • Build • Repeat 🚀
 </h3>
