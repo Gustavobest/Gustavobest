@@ -79,7 +79,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://githubusercontent.com" alt="GitHub Streak Snake"/>
 </p>
 
 ---
