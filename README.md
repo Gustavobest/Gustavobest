@@ -1,23 +1,22 @@
 <!-- 🌊 HEADER ANIMADO -->
 
 <p align="center">
-  <img src="https://vercel.app"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=220&section=header&text=Gustavo%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;Software+Development+Student;Always+Improving+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com"/>
+  <img src="https://komarev.com/ghpvc/?username=Gustavobest&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-
-yaml id="g7k2lm"
+```yaml id="g7k2lm"
 Name: Gustavo
 Country: Peru 🇵🇪
 Role: Backend Developer (Student)
@@ -35,14 +34,14 @@ Goals:
 
 Motto:
   "Code. Learn. Improve. Repeat."
-
+```
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven,idea,docker" />
 </p>
 
 ---
@@ -52,10 +51,10 @@ Motto:
 <p align="center">
 
 <img height="180em"
-src="https://vercel.app"/>
+src="https://github-readme-stats.vercel.app/api?username=Gustavobest&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://vercel.app"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -64,7 +63,7 @@ src="https://vercel.app"/>
 ## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://herokuapp.com"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavobest&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,7 +71,7 @@ src="https://vercel.app"/>
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://vercel.app"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavobest&theme=tokyo-night"/>
 </p>
 
 ---
@@ -80,7 +79,7 @@ src="https://vercel.app"/>
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://githubusercontent.com"/>
+  <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -88,7 +87,7 @@ src="https://vercel.app"/>
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://vercel.app"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -111,16 +110,16 @@ src="https://vercel.app"/>
 
 <p align="center">
 
-<a href="https://github.com">
-  <img src="https://skillicons.dev"/>
+<a href="https://github.com/Gustavobest">
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev"/>
+<a href="https://www.linkedin.com/in/gustavo-diego-quiroz-b22753373/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:gustavodiego550@gmail.com">
-  <img src="https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -130,7 +129,7 @@ src="https://vercel.app"/>
 <!-- 🌊 FOOTER ANIMADO -->
 
 <p align="center">
-  <img src="https://vercel.app"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=150&section=footer"/>
 </p>
 
 <h3 align="center">
