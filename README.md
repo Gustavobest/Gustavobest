@@ -81,13 +81,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavobest&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
