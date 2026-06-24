@@ -1,9 +1,17 @@
 <h1 align="center">
-Hi, I'm Gustavo 👋
+  Hola 👋, Soy Gustavo
 </h1>
 
+<h3 align="center">
+🚀 Backend Developer | Java & Spring Boot Developer
+</h3>
+
 <p align="center">
-Backend Developer | Software Development Student | Java & Spring Boot Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;REST+API+Developer;Software+Development+Student;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -12,132 +20,96 @@ Backend Developer | Software Development Student | Java & Spring Boot Enthusiast
 
 ```yaml
 Name: Gustavo
-Location: Peru
-Education: Software Development Student
-Current Semester: 5th Cycle
-Focus: Backend Development
+Role: Backend Developer
+Country: Peru
 
-Current Goals:
-  - Become a professional Backend Developer
-  - Master Java and Spring Boot
-  - Learn Software Architecture
-  - Improve Database Design
-  - Explore Cybersecurity
+Currently:
+  - Building a Hotel Management System
+  - Learning Spring Boot
+  - Improving Software Architecture
 
-Current Project:
-  - Hotel Management System
+Future Goals:
+  - Get my first Backend Developer job
+  - Learn Spring Security
+  - Learn Docker
+  - Learn Cybersecurity
 
-Fun Fact:
-  - I enjoy solving programming problems and building real-world projects.
+Motto:
+  "Progress over perfection."
 ```
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Tech Stack
 
-* 🔭 Developing a Hotel Management System with Spring Boot
-* 🌱 Learning Backend Architecture and Best Practices
-* 📚 Improving my knowledge of REST APIs
-* 🛠 Practicing Clean Code principles
-* 🔐 Exploring Cybersecurity fundamentals
-* 💼 Building projects to strengthen my portfolio
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven,idea"/>
 
-## 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Project
+## 📊 GitHub Stats
 
-### 🏨 Hotel Management System
+<p align="center">
 
-Backend application developed using Spring Boot.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
 
-### Features
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
 
-* User Management
-* Room Management
-* Reservation Management
-* Validation Handling
-* Global Exception Handling
-* DTO Pattern
-* Entity Relationships
-* RESTful API Design
-
-### Technologies
-
-* Java
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* MySQL
-* Maven
+</p>
 
 ---
 
-## 📈 Currently Learning
+## 🔥 GitHub Streak
 
-* Design Patterns
-* Microservices
-* Spring Security
-* JWT Authentication
-* Docker
-* Software Architecture
-* Cybersecurity Fundamentals
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 Contribution Graph
 
-* Complete my Software Development degree
-* Land my first Backend Developer position
-* Build professional portfolio projects
-* Contribute to Open Source
-* Continue learning advanced Spring Boot
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏨 Featured Project
+
+### Hotel Management System
+
+✔ User Management
+
+✔ Room Management
+
+✔ Reservation Management
+
+✔ DTO Pattern
+
+✔ Exception Handling
+
+✔ Validation
+
+✔ Spring Data JPA
+
+✔ REST API
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/TU-USUARIO
-* LinkedIn: TU-LINKEDIN
-* Email: TU-CORREO
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](TU-LINKEDIN)
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:TU-CORREO)
 
 ---
-
-## 💡 Personal Motto
-
-> "Every line of code is an opportunity to learn something new."
 
 ⭐ Thanks for visiting my profile!
