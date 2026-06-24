@@ -79,15 +79,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="Gustavobest/output/github-snake-dark.svg" alt="GitHub Snake Dark"/>
-</p
-
+  <img src="https://githubusercontent.com" alt="GitHub Snake Dark"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&row=1&column=7"/>
+  <img src="https://vercel.app" alt="GitHub Trophies"/>
 </p>
 
 ---
