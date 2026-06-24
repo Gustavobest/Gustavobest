@@ -79,7 +79,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Gustavobest/Gustavobest/blob/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -87,8 +87,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  ![snake gif](https://github.com/Gustavobest/Gustavobest/blob/output/github-snake-dark.svg)
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
