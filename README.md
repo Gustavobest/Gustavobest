@@ -87,6 +87,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&
 ## 🏆 GitHub Trophies
 
 <p align="center">
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
   <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&row=1&column=7"/>
 </p>
 
