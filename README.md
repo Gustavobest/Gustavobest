@@ -1,189 +1,138 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey! Soy Gustavo
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Gustavo%20%F0%9F%9A%80&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55"/>
+<h1 align="center">
+  Hi, I'm Gustavo 👋
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+Developer;Spring+Boot+Developer;REST+API+Builder;Software+Development+Student;Future+Software+Engineer;Always+Learning+Something+New+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;Software+Development+Student;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Gustavobest&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+## 👨‍💻 About Me
 
-## 👨‍💻 Sobre mí
+```yaml id="g1a9k2"
+Name: Gustavo
+Country: Peru 🇵🇪
+Role: Backend Developer (Student)
 
-```yaml
-Nombre: Gustavo
+Currently:
+  - Building a Hotel Management System
+  - Learning Spring Boot & Java
+  - Practicing REST APIs
 
-Ubicación: Perú 🇵🇪
-
-Rol:
-  - Backend Developer
-
-Actualmente:
-  - Desarrollando Hotel Management System
-  - Aprendiendo Spring Boot
-  - Mejorando Arquitectura de Software
-
-Objetivos:
-  - Conseguir mi primer empleo como Backend Developer
-  - Dominar Spring Security
-  - Aprender Docker
-  - Aprender Ciberseguridad
-
-Pasión:
-  - Resolver problemas
-  - Crear APIs
-  - Construir proyectos reales
+Goals:
+  - First Backend Developer job
+  - Master Spring Boot
+  - Learn Docker & Security
+  - Improve System Design
 
 Motto:
-  "Progress over perfection"
+  "Code. Learn. Improve. Repeat."
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven,idea,docker,linux"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven,idea,docker" />
 </p>
 
 ---
 
-# 🔥 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=Gustavobest&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ⚡ GitHub Streak
+## ⚡ GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavobest&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavobest&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🐍 Snake Animation
+## 🐍 Snake Animation (IMPORTANTE)
+
+👉 Este link SOLO funciona cuando configuras GitHub Actions:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Gustavobest/Gustavobest/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🏨 Proyecto Destacado
+## 🏆 GitHub Trophies
 
-## Hotel Management System
-
-Backend profesional desarrollado con Java y Spring Boot.
-
-### Funcionalidades
-
-✅ Gestión de Usuarios
-
-✅ Gestión de Habitaciones
-
-✅ Gestión de Reservas
-
-✅ DTO Pattern
-
-✅ Validation
-
-✅ Exception Handling
-
-✅ Spring Data JPA
-
-✅ Hibernate
-
-✅ MySQL
-
-✅ Arquitectura por capas
-
-✅ REST API
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gustavobest&theme=tokyonight&row=1&column=7"/>
+</p>
 
 ---
 
-# 📚 Actualmente Aprendiendo
+## 🏨 Featured Project
 
-```text
-☕ Java Avanzado
-🌱 Spring Boot
-🔒 Spring Security
-🐳 Docker
-🏗 Arquitectura de Software
-🛡 Ciberseguridad
-```
+### Hotel Management System
 
----
-
-# 🎯 Objetivos 2026
-
-* [ ] Conseguir trabajo como Backend Developer
-* [ ] Terminar más proyectos reales
-* [ ] Aprender Docker
-* [ ] Aprender Spring Security
-* [ ] Mejorar System Design
-* [ ] Contribuir a Open Source
+✔ User Management
+✔ Room Management
+✔ Reservation System
+✔ DTO Pattern
+✔ Exception Handling
+✔ REST API
+✔ Spring Boot + JPA + MySQL
 
 ---
 
-# 🌐 Conecta Conmigo
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/Gustavobest">
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:TU_CORREO">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/gustavo-diego-quiroz-b22753373/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:gustavodiego550@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+## 💡 Important Note
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=tokyonight"/>
-
-</p>
+> Este perfil está enfocado en Backend Development con Java y Spring Boot.
+> Proyecto principal: Hotel Management System 🚀
 
 ---
 
 <h3 align="center">
-
-💻 Code • Learn • Build • Repeat 🚀
-
+🔥 Code • Learn • Build • Repeat
 </h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
