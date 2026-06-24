@@ -1,21 +1,23 @@
 <!-- 🌊 HEADER ANIMADO -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=220&section=header&text=Gustavo%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://vercel.app"/>
 </p>
 
 <p align="center">
-  <img src="https://demolab.com+🚀"/>
+  <img src="https://herokuapp.com+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavobest&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```yaml
+
+yaml id="g7k2lm"
 Name: Gustavo
 Country: Peru 🇵🇪
 Role: Backend Developer (Student)
@@ -33,14 +35,14 @@ Goals:
 
 Motto:
   "Code. Learn. Improve. Repeat."
-```
+
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,maven,idea,docker" />
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
@@ -48,8 +50,13 @@ Motto:
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavobest&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobest&layout=compact&theme=tokyonight"/>
+
+<img height="180em"
+src="https://vercel.app"/>
+
+<img height="180em"
+src="https://vercel.app"/>
+
 </p>
 
 ---
@@ -57,7 +64,7 @@ Motto:
 ## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavobest&theme=tokyonight"/>
+  <img src="https://herokuapp.com"/>
 </p>
 
 ---
@@ -65,7 +72,7 @@ Motto:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavobest&theme=tokyo-night"/>
+  <img src="https://vercel.app"/>
 </p>
 
 ---
@@ -73,7 +80,7 @@ Motto:
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake Dark"/>
+  <img src="https://githubusercontent.com"/>
 </p>
 
 ---
@@ -81,7 +88,7 @@ Motto:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies"/>
+  <img src="https://vercel.app"/>
 </p>
 
 ---
@@ -103,22 +110,27 @@ Motto:
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Gustavobest">
-  <img src="https://skillicons.dev/icons?i=github"/>
+
+<a href="https://github.com">
+  <img src="https://skillicons.dev"/>
 </a>
-<a href="https://www.linkedin.com/in/gustavo-diego-quiroz-b22753373/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev"/>
 </a>
+
 <a href="mailto:gustavodiego550@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev"/>
 </a>
+
 </p>
 
 ---
 
 <!-- 🌊 FOOTER ANIMADO -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=150&section=footer"/>
+  <img src="https://vercel.app"/>
 </p>
 
 <h3 align="center">
